@@ -5,7 +5,7 @@ Arquivos utilizados por @anacarolinamoreno no módulo 3, que trata de dados educ
 
 ### Códigos:
 
-Código 1: usado nas aulas 4 e 5 do módulo 3 (arquivo SQL para ser carregado no programa DB-Browser)
+[Código 1:](https://github.com/escola-de-dados/ddj_local/blob/main/3_educacao/codigo_1_aulas-4-e-5.sql) usado nas aulas 4 e 5 do módulo 3 (arquivo SQL para ser carregado no programa DB-Browser)
 
 Código 2: usado na aula ao vivo do módulo 3 como resolução do desafio (arquivo SQL para ser carregado no programa DB-Browser)
 
