@@ -1,7 +1,9 @@
 # Dados educacionais
-Arquivos utilizados por @anacarolinamoreno no módulo 3, que trata de dados educacionais.
+Arquivos usados por [anacarolinamoreno](https://github.com/anacarolinamoreno/) no módulo 3, que trata de dados educacionais.
 
-## Índice de arquivos:
+Os arquivos estão todos listados acima. Para saber detalhes sobre cada um eles, utilize o índice abaixo:
+
+## Índice:
 
 ### Códigos:
 
