@@ -1,2 +1,2 @@
 # Dados educacionais
-Arquivos SQL e CSV utilizadas por @anacarolinamoreno no módulo 2, que trata de dadados educacionais.
+Arquivos SQL e CSV utilizados no módulo 4, que trata de dados de Saúde e Covid-19.
